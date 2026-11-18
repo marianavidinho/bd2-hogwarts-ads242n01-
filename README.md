@@ -8,7 +8,7 @@
 ## Aluno
 
 | Nome | Matrícula | Usuário do GitHub |
-| --- | --- | --- |
+|Mariana| 2376465 | marianavidinho |
 |  |  |  |
 
 ## O cenário
